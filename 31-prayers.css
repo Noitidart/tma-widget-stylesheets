@@ -1,5 +1,5 @@
 body, th {
-    color: white;
+    color: white !important;
 }
 
 tr > td:first-child > svg {
